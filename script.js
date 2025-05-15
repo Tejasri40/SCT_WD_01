@@ -87,13 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
             category: "desserts",
             image: "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
         },
-        {
-            name: "Craft Cocktails",
-            description: "Selection of our signature cocktails made with premium spirits",
-            price: "$12.99",
-            category: "drinks",
-            image: "https://images.unsplash.com/photo-1551751299-1b51cab2694c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-        },
+        
         {
             name: "Wine Selection",
             description: "Glass of our finest red, white or rosé wines from local vineyards",
