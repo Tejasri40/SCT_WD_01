@@ -50,50 +50,49 @@ document.addEventListener('DOMContentLoaded', function() {
             description: "Toasted bread topped with tomatoes, garlic, and fresh basil",
             price: "$8.99",
             category: "starters",
-            image: "https://images.unsplash.com/photo-1572695157366-5e585ab2b69f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "Bruschetta.png"
         },
         {
             name: "Caesar Salad",
             description: "Romaine lettuce, croutons, parmesan cheese with Caesar dressing",
             price: "$10.99",
             category: "starters",
-            image: "https://images.unsplash.com/photo-1546793665-c74683f339c1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "CaesarSalad.png"
         },
         {
             name: "Grilled Salmon",
             description: "Fresh Atlantic salmon with lemon butter sauce and seasonal vegetables",
             price: "$22.99",
             category: "mains",
-            image: "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "GrilledSalmon.png"
         },
         {
             name: "Filet Mignon",
             description: "8oz tender beef filet with red wine reduction and mashed potatoes",
             price: "$32.99",
             category: "mains",
-            image: "https://images.unsplash.com/photo-1588168333986-5078d3ae3976?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "FiletMignon.png"
         },
         {
             name: "Tiramisu",
             description: "Classic Italian dessert with layers of coffee-soaked ladyfingers and mascarpone cream",
             price: "$7.99",
             category: "desserts",
-            image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "Tiramisu.png"
         },
         {
             name: "Chocolate Lava Cake",
             description: "Warm chocolate cake with a molten center, served with vanilla ice cream",
             price: "$8.99",
             category: "desserts",
-            image: "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "ChocolateLavaCake.png"
         },
-        
         {
             name: "Wine Selection",
             description: "Glass of our finest red, white or rosé wines from local vineyards",
             price: "$9.99",
             category: "drinks",
-            image: "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+            image: "WineSelection.png"
         }
     ];
     
